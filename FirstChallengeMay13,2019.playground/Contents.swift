@@ -25,6 +25,5 @@ for number in 0...100 {
     }
 }
 
-
-
+print(arrayOfThreeAndFive)
 
